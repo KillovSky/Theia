@@ -1,0 +1,44 @@
+{
+  "name": "theia",
+  "version": "1.0.0",
+  "build_date": "15-09-2025",
+  "build_name": "ether",
+  "private": "true",
+  "description": "O Projeto Theia é um plugin opcional em Ruby para o Projeto Íris, permitindo a implementação de QUALQUER funcionalidade em Ruby, incluindo o uso de ilimitadas GEMs e outros códigos da mesma programação. Isso elimina a necessidade de editar o código principal da Íris ou aprender Node.js (JavaScript) para editá-la.",
+  "main": "start.rb",
+  "scripts": {
+    "start": "ruby start.rb",
+    "install": "bundle install"
+  },
+  "author": "KillovSky",
+  "documentation": "https://github.com/KillovSky/Theia/wiki",
+  "homepage": "https://github.com/KillovSky/Theia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillovSky/Theia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KillovSky/Theia/issues"
+  },
+  "social": {
+    "github": "https://github.com/KillovSky",
+    "npm": "https://npmjs.com/~killovsky",
+    "other": "https://linktr.ee/killovsky"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "funding": [
+    {
+      "type": "kofi",
+      "url": "http://ko-fi.com/killovsky"
+    },
+    {
+      "type": "others",
+      "url": "https://linktr.ee/killovsky"
+    }
+  ],
+  "devDependencies": {},
+  "directories": {
+    "src": "src"
+  }
+}
